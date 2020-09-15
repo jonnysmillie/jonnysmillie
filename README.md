@@ -4,3 +4,5 @@
 ![React JS](https://img.shields.io/badge/FRAMEWORK-REACTJS-lightblue?style=for-the-badge&logo=react)
 ![Gatsby JS](https://img.shields.io/badge/TOOLS-GATSBY-purple?style=for-the-badge&logo=gatsby)
 ![SASS](https://img.shields.io/badge/CODE-SASS-blue?style=for-the-badge&logo=sass)
+![GraphQL](https://img.shields.io/badge/CODE-GRAPHQL-orange?style=for-the-badge&logo=graphql)
+![Bitcoin](https://img.shields.io/badge/Crypto-BITCOIN-blue?style=for-the-badge&logo=bitcoin)
