@@ -1,9 +1,10 @@
 ### Technologies & Tools
 
-![HTML](https://img.shields.io/badge/HTML-5-red?style=for-the-badge&logo=html)
-![CSS](https://img.shields.io/badge/HTML-5-red?style=for-the-badge&logo=css)
-![JS](https://img.shields.io/badge/Javascript-5-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-5-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-5-red?style=for-the-badge&logo=css3)
+![JS](https://img.shields.io/badge/Javascript-ES6-yellow?style=for-the-badge&logo=javascript)
 ![React JS](https://img.shields.io/badge/React-JS-blue?style=for-the-badge&logo=react)
+![Gatsby JS](https://img.shields.io/badge/Gatsby-JS-purple?style=for-the-badge&logo=gatsby)
 
 ### Github Stats
 
