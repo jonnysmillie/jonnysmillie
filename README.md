@@ -10,4 +10,5 @@
 ### Github Stats
 
 [![Jonny's github stats](https://github-readme-stats.vercel.app/api?username=jonnysmillie&show_icons=true&theme=dracula)](https://github.com/jonnysmillie)
-*I mostly work on private repositorys these days, which is why the above stats may look a little sparse.* 🔍
+
+🔍 *I mostly work on private repositorys these days, which is why the above stats may look a little sparse.* 🔍
