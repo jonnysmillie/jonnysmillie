@@ -5,7 +5,7 @@
 ![JS](https://img.shields.io/badge/Javascript-ES6-yellow?style=for-the-badge&logo=javascript)
 ![React JS](https://img.shields.io/badge/React-JS-lightblue?style=for-the-badge&logo=react)
 ![Gatsby JS](https://img.shields.io/badge/Gatsby-JS-purple?style=for-the-badge&logo=gatsby)
-![SCSS](https://img.shields.io/badge/SCSS- -blue?style=for-the-badge&logo=scss)
+![SASS](https://img.shields.io/badge/SCSS- -blue?style=for-the-badge&logo=sass)
 
 ### Github Stats
 
