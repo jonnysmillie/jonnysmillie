@@ -6,6 +6,5 @@
 ![NPM](https://img.shields.io/badge/TOOLS-NPM-red?style=for-the-badge&logo=npm)
 ![SASS](https://img.shields.io/badge/CODE-SASS-blue?style=for-the-badge&logo=sass)
 ![Markdown](https://img.shields.io/badge/CODE-MARKDOWN-red?style=for-the-badge&logo=markdown)
-![GraphQL](https://img.shields.io/badge/CODE-GRAPHQL-orange?style=for-the-badge&logo=graphql)
 ![Bitcoin](https://img.shields.io/badge/Crypto-BITCOIN-gold?style=for-the-badge&logo=bitcoin)
 ![Cardano](https://img.shields.io/badge/Crypto-Cardano-lightblue?style=for-the-badge&logo=cardano)
