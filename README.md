@@ -1,3 +1,6 @@
+![Screenshot 2022-01-26 at 22 18 25](https://user-images.githubusercontent.com/7614348/151256522-679af0af-0101-43fc-b39a-a9324e6a07e3.png)
+
+
 ![HTML](https://img.shields.io/badge/CODE-HTML5-red?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CODE-CSS3-blue?style=for-the-badge&logo=css3)
 ![JS](https://img.shields.io/badge/CODE-JAVASCRIPT-yellow?style=for-the-badge&logo=javascript)
