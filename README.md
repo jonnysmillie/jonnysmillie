@@ -1,5 +1,3 @@
-![Screenshot 2022-01-26 at 22 18 25](https://user-images.githubusercontent.com/7614348/151256522-679af0af-0101-43fc-b39a-a9324e6a07e3.png)
-
 <h1><a href='https://jonnysmillie.co.uk'>jonnysmillie.co.uk</a></h1>
 
 
