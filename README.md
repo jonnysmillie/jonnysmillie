@@ -12,4 +12,4 @@
 ![Bitcoin](https://img.shields.io/badge/Crypto-BITCOIN-gold?style=for-the-badge&logo=bitcoin)
 ![Ethereum](https://img.shields.io/badge/Crypto-ethereum-purple?style=for-the-badge&logo=ethereum)
 ![Polkadot](https://img.shields.io/badge/Crypto-Polkadot-pink?style=for-the-badge&logo=polkadot)
-![Cardano](https://img.shields.io/badge/Crypto-Cardano-lightblue?style=for-the-badge&logo=cardano)
+![Cardano](https://img.shields.io/badge/Cardano-lightblue?style=for-the-badge&logo=cardano)
