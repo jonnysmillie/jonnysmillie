@@ -7,6 +7,5 @@
 ![React JS](https://img.shields.io/badge/FRAMEWORK-REACTJS-lightblue?style=for-the-badge&logo=react)
 ![NPM](https://img.shields.io/badge/TOOLS-NPM-red?style=for-the-badge&logo=npm)
 ![SASS](https://img.shields.io/badge/CODE-SASS-blue?style=for-the-badge&logo=sass)
-![Bitcoin](https://img.shields.io/badge/BITCOIN-gold?style=for-the-badge&logo=bitcoin)
 ![Polkadot](https://img.shields.io/badge/Polkadot-pink?style=for-the-badge&logo=polkadot)
 ![Cardano](https://img.shields.io/badge/Cardano-lightblue?style=for-the-badge&logo=cardano)
